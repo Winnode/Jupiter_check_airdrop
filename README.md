@@ -4,7 +4,7 @@ Update : Jupiter  Check your first transaction on the Jupiter exchange!  If you 
 ```
 your address create file wallet.txt and input your wallet in wallet.txt
 ```
-##Install puppeteer
+## Install puppeteer
 ```
 npm install puppeteer
 ```
