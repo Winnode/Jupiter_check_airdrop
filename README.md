@@ -7,3 +7,15 @@ your address create file wallet.txt and input your wallet in wallet.txt
 ```bash
 node jup
 ```
+```
+![Priview]([image link](https://github.com/Winnode/Jupiter_check_airdrop/blob/main/SC.png)
+```
+```
+TIER 1 = 100,000 JUP
+TIER 2 = 20,000 JUP
+TIER 3 = 3,200 JUP
+TIER 4 = 1,300 - 1,800 JUP
+TIER 5 = 200 JUP
+
+https://airdrop.jup.ag/
+```
